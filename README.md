@@ -1,2 +1,2 @@
 # Project02
-Second project create out of laziness.
+Second project created out of laziness.
