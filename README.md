@@ -1,2 +1,1 @@
-# Project02
-Second project created out of laziness.
+# Project02 (LazySysadmin)
