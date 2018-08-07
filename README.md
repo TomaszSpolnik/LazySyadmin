@@ -1,1 +1,1 @@
-# Project02 (LazySysadmin)
+# LazySysadmin
